@@ -1,3 +1,4 @@
 # firstgithub-repo
-this is my first github repository 
-auther-adithya
+this is my first github repository <br>
+auther-adithya<br>
+hi
